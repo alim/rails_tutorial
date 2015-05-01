@@ -13,4 +13,10 @@ The steps for each tutorial will be documented in the Wiki for this repository a
 the results of each tutorial step will be captured in a separate Github branch
 (e.g. step_1_scaffold).
 
+# License
 
+The MIT License (MIT)
+
+Copyright (c) 2015 Andrew Lim
+
+Complete license text is [here](http://opensource.org/licenses/MIT)
